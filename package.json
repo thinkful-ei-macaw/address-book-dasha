@@ -1,7 +1,7 @@
 {
-  "name": "express-boilerplate",
+  "name": "address-bok",
   "version": "1.0.0",
-  "description": "",
+  "description": "delete and post requests assignment",
   "main": "index.js",
   "scripts": {
     "start": "node src/server.js",
@@ -25,5 +25,16 @@
     "mocha": "^7.1.1",
     "nodemon": "^2.0.2",
     "supertest": "^4.0.2"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei-macaw/dasha-express-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thinkful-ei-macaw/dasha-express-boilerplate/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei-macaw/dasha-express-boilerplate#readme"
 }
